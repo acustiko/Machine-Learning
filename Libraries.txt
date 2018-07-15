@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib.pyplot
+matplotlib
+seaborn
+cufflinks
+sklearn
+#panda_datareader below. because it gives an error you need to install the dev version.
+pip install git+https://github.com/pydata/pandas-datareader.git
+plotly
